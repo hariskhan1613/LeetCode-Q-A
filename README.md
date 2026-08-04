@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
