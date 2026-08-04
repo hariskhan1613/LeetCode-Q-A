@@ -1,23 +1,32 @@
-import java.util.*;
+import java.util.Stack;
+
 class Solution {
-    public boolean isValid(String str) {
-        Stack<Character> stack= new Stack<>();
-        for(int i=0; i<str.length();i++){
-            if(str.charAt(i)=='(' || str.charAt(i)=='{' || str.charAt(i)=='['){
-                stack.push(str.charAt(i));
-            }else{
-                if(stack.isEmpty()){
+    public boolean isValid(String s) {
+
+        Stack<Character> stack = new Stack<>();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            if (ch == '(') {
+                stack.push(')');
+            }
+            else if (ch == '{') {
+                stack.push('}');
+            }
+            else if (ch == '[') {
+                stack.push(']');
+            }
+            else {
+
+                if (stack.isEmpty() || stack.pop() != ch) {
                     return false;
                 }
-                if(stack.peek()== '(' && str.charAt(i)== ')' || 
-                stack.peek()=='{' && str.charAt(i)=='}' || 
-                stack.peek()=='[' && str.charAt(i)==']'){
-                    stack.pop();
-                }else{
-                    return false;
-                }
+
             }
         }
+
         return stack.isEmpty();
     }
 }
