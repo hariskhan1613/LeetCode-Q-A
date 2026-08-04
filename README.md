@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
+| [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
