@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
+| [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
+| [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
