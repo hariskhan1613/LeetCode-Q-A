@@ -8,16 +8,13 @@ class Solution {
 
             int mid = left + (right - left) / 2;
 
-            // Make mid even
             if (mid % 2 == 1) {
                 mid--;
             }
 
             if (nums[mid] == nums[mid + 1]) {
-                // Pair is correct, single element is on the right
                 left = mid + 2;
             } else {
-                // Pair is broken, single element is on the left
                 right = mid;
             }
         }
