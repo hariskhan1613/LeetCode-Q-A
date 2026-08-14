@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
