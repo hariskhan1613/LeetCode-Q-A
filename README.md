@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Depth-First Search
 |  |
 | ------- |
