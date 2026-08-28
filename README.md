@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
