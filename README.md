@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
