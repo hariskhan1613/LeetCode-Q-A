@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0189-rotate-array) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2520-count-the-digits-that-divide-a-number) |
