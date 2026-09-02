@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0066-plus-one) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
