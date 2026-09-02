@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
