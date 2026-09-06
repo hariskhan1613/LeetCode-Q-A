@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
