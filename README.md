@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1929-concatenation-of-array) |
