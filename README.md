@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
