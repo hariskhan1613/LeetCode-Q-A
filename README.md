@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0977-squares-of-a-sorted-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3731-find-missing-elements) |
