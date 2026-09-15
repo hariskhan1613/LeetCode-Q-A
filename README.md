@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
