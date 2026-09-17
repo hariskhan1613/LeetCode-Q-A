@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0940-distinct-subsequences-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 | [3310-remove-methods-from-project](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0004-median-of-two-sorted-arrays) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
