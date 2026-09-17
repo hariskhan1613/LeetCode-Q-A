@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0977-squares-of-a-sorted-array) |
@@ -251,8 +253,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0004-median-of-two-sorted-arrays) |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
