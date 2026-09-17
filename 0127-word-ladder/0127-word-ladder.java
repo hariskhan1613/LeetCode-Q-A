@@ -1,32 +1,42 @@
 class Solution {
+
+    class Pair{
+        String str;
+        int count;
+
+        Pair(String str, int count){
+            this.str = str;
+            this.count = count;
+        }
+    }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> wordSet = new HashSet<>(wordList);
-        if (!wordSet.contains(endWord)) return 0;
+        Queue<Pair> q = new LinkedList<>();
+        q.offer(new Pair(beginWord,1));
+        
+        Set<String> st = new HashSet<>();
+        for(String str : wordList){
+            st.add(str);
+        }
+        st.remove(beginWord);
 
-        Queue<String> queue = new LinkedList<>();
-        queue.offer(beginWord);
-        int steps = 1;
+        while(!q.isEmpty()){
+            String curr = q.peek().str;
+            int steps = q.peek().count;
+            q.remove();
 
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            while (size-- > 0) {
-                String word = queue.poll();
-                if (word.equals(endWord)) return steps;
+            if(curr.equals(endWord)) return steps;
 
-                for (int i = 0; i < word.length(); i++) {
-                    for (char c = 'a'; c <= 'z'; c++) {
-                        char[] chars = word.toCharArray();
-                        chars[i] = c;
-                        String newWord = new String(chars);
-
-                        if (wordSet.contains(newWord)) {
-                            queue.offer(newWord);
-                            wordSet.remove(newWord);
-                        }
+            for(int i = 0 ; i< curr.length();i++){
+                for(char ch = 'a' ; ch <= 'z' ; ch++){
+                    char[] arr = curr.toCharArray();
+                    arr[i] = ch;
+                    String str = new String(arr);
+                    if(st.contains(str)){
+                        q.add(new Pair(str,steps+1));
+                        st.remove(str);
                     }
                 }
             }
-            steps++;
         }
         return 0;
     }
