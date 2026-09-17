@@ -1,43 +1,45 @@
 class Solution {
-
-    class Pair{
-        String str;
-        int count;
-
-        Pair(String str, int count){
-            this.str = str;
-            this.count = count;
-        }
-    }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Queue<Pair> q = new LinkedList<>();
-        q.offer(new Pair(beginWord,1));
-        
-        Set<String> st = new HashSet<>();
-        for(String str : wordList){
-            st.add(str);
-        }
-        st.remove(beginWord);
+        Set<String> wordSet = new HashSet<>(wordList);
+        if (!wordSet.contains(endWord)) return 0;
 
-        while(!q.isEmpty()){
-            String curr = q.peek().str;
-            int steps = q.peek().count;
-            q.remove();
+        Set<String> beginSet = new HashSet<>();
+        Set<String> endSet = new HashSet<>();
+        Set<String> visited = new HashSet<>();
 
-            if(curr.equals(endWord)) return steps;
+        beginSet.add(beginWord);
+        endSet.add(endWord);
+        int steps = 1;
 
-            for(int i = 0 ; i< curr.length();i++){
-                for(char ch = 'a' ; ch <= 'z' ; ch++){
-                    char[] arr = curr.toCharArray();
-                    arr[i] = ch;
-                    String str = new String(arr);
-                    if(st.contains(str)){
-                        q.add(new Pair(str,steps+1));
-                        st.remove(str);
+        while (!beginSet.isEmpty() && !endSet.isEmpty()) {
+            if (beginSet.size() > endSet.size()) {
+                Set<String> temp = beginSet;
+                beginSet = endSet;
+                endSet = temp;
+            }
+
+            Set<String> nextSet = new HashSet<>();
+
+            for (String word : beginSet) {
+                for (int i = 0; i < word.length(); i++) {
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        if (c == word.charAt(i)) continue;
+
+                        String newWord = word.substring(0, i) + c + word.substring(i + 1);
+                        if (endSet.contains(newWord)) return steps + 1;
+
+                        if (wordSet.contains(newWord) && !visited.contains(newWord)) {
+                            visited.add(newWord);
+                            nextSet.add(newWord);
+                        }
                     }
                 }
             }
+
+            beginSet = nextSet;
+            steps++;
         }
-        return 0;
+
+        return 0;        
     }
 }
