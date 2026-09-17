@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
