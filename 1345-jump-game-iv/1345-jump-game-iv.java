@@ -1,55 +1,46 @@
+import java.util.*;
+
 class Solution {
     public int minJumps(int[] arr) {
         int n = arr.length;
-        if (n <= 1) {
-            return 0;
-        }
+        if (n == 1) return 0;
 
-        Map<Integer, List<Integer>> graph = new HashMap<>();
+        Map<Integer, List<Integer>> mp = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            graph.computeIfAbsent(arr[i], v -> new LinkedList<>()).add(i);
+            mp.computeIfAbsent(arr[i], k -> new ArrayList<>()).add(i);
         }
 
-        List<Integer> curs = new LinkedList<>(); // store current layer
-        curs.add(0);
-        Set<Integer> visited = new HashSet<>();
-        int step = 0;
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{0, 0});
 
-        // when current layer exists
-        while (!curs.isEmpty()) {
-            List<Integer> nex = new LinkedList<>();
+        boolean[] vis = new boolean[n];
+        vis[0] = true;
 
-            // iterate the layer
-            for (int node : curs) {
-                // check if reached end
-                if (node == n - 1) {
-                    return step;
-                }
+        while (!q.isEmpty()) {
+            int[] curr = q.poll();
+            int node = curr[0];
+            int dist = curr[1];
 
-                // check same value
-                for (int child : graph.get(arr[node])) {
-                    if (!visited.contains(child)) {
-                        visited.add(child);
-                        nex.add(child);
-                    }
-                }
+            if (node == n - 1) return dist;
 
-                // clear the list to prevent redundant search
-                graph.get(arr[node]).clear();
+            if (node - 1 >= 0 && !vis[node - 1]) {
+                vis[node - 1] = true;
+                q.offer(new int[]{node - 1, dist + 1});
+            }
 
-                // check neighbors
-                if (node + 1 < n && !visited.contains(node + 1)) {
-                    visited.add(node + 1);
-                    nex.add(node + 1);
-                }
-                if (node - 1 >= 0 && !visited.contains(node - 1)) {
-                    visited.add(node - 1);
-                    nex.add(node - 1);
+            if (node + 1 < n && !vis[node + 1]) {
+                vis[node + 1] = true;
+                q.offer(new int[]{node + 1, dist + 1});
+            }
+
+            for (int next : mp.get(arr[node])) {
+                if (!vis[next]) {
+                    vis[next] = true;
+                    q.offer(new int[]{next, dist + 1});
                 }
             }
 
-            curs = nex;
-            step++;
+            mp.get(arr[node]).clear();
         }
 
         return -1;
