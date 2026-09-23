@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
