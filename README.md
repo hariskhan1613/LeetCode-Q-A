@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/2063-vowels-of-all-substrings) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
