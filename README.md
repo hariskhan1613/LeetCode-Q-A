@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1096-brace-expansion-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1096-brace-expansion-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0387-first-unique-character-in-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/1096-brace-expansion-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
