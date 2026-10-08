@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0058-length-of-last-word) |
+| [0087-scramble-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0127-word-ladder) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariskhan1613/LeetCode-Q-A/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
